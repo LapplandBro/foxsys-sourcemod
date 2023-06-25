@@ -23,4 +23,6 @@
 - **Sourcemod** - https://www.sourcemod.net/downloads.php?branch=stable
 - Чтобы `brain.sys` и `hands.sys` функционировали без сбоев;
 
+### Если возникли ошибки - пишем смело в Issues;
+
 ![EQCci5zUcAA76ij](https://github.com/WOLFA22/foxsys-sourcemod/assets/35665773/6318d56a-fb80-480a-a8ad-db7b3034d3ba)
