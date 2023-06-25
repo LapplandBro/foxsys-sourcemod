@@ -3,5 +3,4 @@
 
 Для компиляции плагинов требуется следующие библиотеки (includes):
 
-MoreColors - https://forums.alliedmods.net/showthread.php?t=185016
-Стабильная версия Sourcemod 1.10-1.12;
+MoreColors - https://forums.alliedmods.net/showthread.php?t=185016 | Sourcemod 1.10-1.12;
