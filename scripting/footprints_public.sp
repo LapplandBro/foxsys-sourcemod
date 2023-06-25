@@ -9,7 +9,7 @@ public Plugin:myinfo =
 {
 	name = "[TF2] Halloween Footprints",
 	author = "Oshizu",
-	description = "Looks Fancy Ahhhh",
+	description = "Looks Fancy Ahhhh, Lappland Saluzzo",
 	version = "1.1.0.1",
 	url = "https://lurolona.su"
 }
