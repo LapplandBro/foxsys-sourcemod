@@ -32,7 +32,7 @@ public OnPluginStart() {
 	cookieTag = RegClientCookie("ccc_toggle_tag", "Custom Chat Colors Toggle - Tag", CookieAccess_Private);
 	cookieName = RegClientCookie("ccc_toggle_name_color", "Custom Chat Colors Toggle - Name Color", CookieAccess_Private);
 	cookieChat = RegClientCookie("ccc_toggle_chat_color", "Custom Chat Colors Toggle - Chat Color", CookieAccess_Private);
-	SetCookieMenuItem(CustomChatColorMenu, 0, "Custom Chat Color Settings");
+	SetCookieMenuItem(CustomChatColorMenu, 0, "Настройки префикса");
 }
 
 public CustomChatColorMenu(client, CookieMenuAction:action, any:info, String:buffer[], maxlen) {
