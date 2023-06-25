@@ -6,8 +6,8 @@
 #include <sdkhooks>
 #include <tf2>
 
-#define VERSION "1.1.0.8"
-#define URL "http://tf2.killer666.ru/"
+#define VERSION "1.1.0.9"
+#define URL "http://lurolona.su"
 #define FCVARS FCVAR_SPONLY|FCVAR_REPLICATED|FCVAR_NOTIFY
 
 new iS[MAXPLAYERS+1][MAXPLAYERS+1];
@@ -15,7 +15,7 @@ new iS[MAXPLAYERS+1][MAXPLAYERS+1];
 public Plugin:myinfo =
 {
 	name = "[TF2] Scoring Players",
-	author = "WOLFA22, AlmazON",
+	author = "Lappland Saluzzo",
 	description = "Автоматические ведение счёта между игроками.",
 	version = VERSION,
 	url = URL
