@@ -1,2 +1,2 @@
-#  FoxSys Project | Open Source Repository
-FoxSys project repository with plugins translated into Russian. Hardcode only.
+#  FoxSys Project - Source code of plugins
+Репозиторий проекта FoxSys с переведенными на русский язык исходниками, а также исправлениями некритичных багов;
