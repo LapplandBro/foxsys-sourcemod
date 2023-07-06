@@ -30,7 +30,7 @@ public OnPluginStart() {
 	
 	hLink = CreateConVar("sm_discordlink", "https://discord.gg/ZwbrJk5r9h", "Link to joining our Discord-community.");
 	
-	AutoExecConfig(true, "vsh_menu");
+	AutoExecConfig(true, "jump_menu");
 
 }
 
