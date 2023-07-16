@@ -192,7 +192,7 @@ public OnAllPluginsLoaded()
 			g_hCookie_Enabled = RegClientCookie("aimnnames_enabled", "Enable/Disable aim names", CookieAccess_Public);
 			g_hCookie_Color = RegClientCookie("aimnnames_color", "Color to use for hud", CookieAccess_Public);
 			g_hCookie_ShowHealth = RegClientCookie("aimnames_showhealth", "Show players health", CookieAccess_Private);
-			SetCookieMenuItem(CookieMenu_TopMenu, g_hCookie_Enabled, "Aim Names");
+			SetCookieMenuItem(CookieMenu_TopMenu, g_hCookie_Enabled, "Отображение никнеймов");
 		}
 	}
 }
